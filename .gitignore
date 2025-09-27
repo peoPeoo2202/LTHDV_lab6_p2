@@ -122,6 +122,6 @@ build/
 secrets.*
 
 # Lock files (if you prefer to not commit lockfiles)
-# package-lock.json
-# yarn.lock
-# pnpm-lock.yaml
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
